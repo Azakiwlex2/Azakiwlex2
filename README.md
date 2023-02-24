@@ -1,4 +1,4 @@
-<h3 align="center">Programador terrible</h3>
+<h3 align="center">Programador Terrible</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azakiwlex2&label=Profile%20views&color=0e75b6&style=flat" alt="azakiwlex2" /> </p>
 
