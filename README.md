@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azakiwlex2&label=Profile%20views&color=0e75b6&style=flat" alt="azakiwlex2" /> </p>
 
-<p align="left">
-</p>
 - 📫 Contactame en discord **Azakiwlex#9338**
 
 <h3 align="left">Languages and Tools:</h3>
